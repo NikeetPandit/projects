@@ -8,6 +8,7 @@ The DWT compression and ideal FFT compression were written by Changin Oh, and th
 --------------------------------------------
 ![This is an image](https://github.com/NikeetPandit/projects/blob/main/Lossy%20Image%20Compression/functions/IM/read_me_IM.PNG)
 *SVD Compression of B&W Flower*
+
 --------------------------------------------
 
 ### Cite As
