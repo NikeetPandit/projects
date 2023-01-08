@@ -1,11 +1,13 @@
 ### Lossy Image Compression Algorithm Development
 This is part two of the image compression report which discusses in-detail lossy compression from a deeply theoretical perspective with application. This report was written by Nikeet Pandit except for the SVD compression section, written by Changin Oh. All testing and experimentation in the report was performed by Nikeet. 
-Algorithms are appended at the end of the report and appended to the GitHub. The DWT compression and ideal FFT compression were written by Changin Oh, and thus are not appended to GitHub and may not be used or redistributed under any circumstance. 
-Smooth FFT, DCT compression, DWT compression, and SVD compression are written by Nikeet and may be used, tailored as needed. Use at your own risk. 
+
+Algorithms are appended at the end of the report and appended to the GitHub. Smooth FFT, DCT compression, DWT compression, and SVD compression are written by Nikeet and may be used, tailored as needed. Use at your own risk. 
+
+The DWT compression and ideal FFT compression were written by Changin Oh, and thus are not appended to GitHub and may not be used or redistributed under any circumstance
 
 --------------------------------------------
 ![This is an image](https://github.com/NikeetPandit/projects/blob/main/Lossy%20Image%20Compression/functions/IM/read_me_IM.PNG)
-*Varying block size on block discrete cosine transform compression algorithm and effect on key performance metrics*
+*Varying block size on block DCT compress effect on key performance metrics*
 --------------------------------------------
 
 ### Cite As
