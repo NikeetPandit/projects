@@ -1,5 +1,5 @@
 ### Lossy Image Compression Algorithm Development
-This is part two of the image compression report which discusses in-detail lossy compression from a deeply theoretical perspective with application. This report was written by Nikeet Pandit except for the SVD compression section, written by Changin Oh. All testing and experimentation in the report was performed by Nikeet. 
+This project discusses in-detail lossy compression from a theoretical perspective linked to application and many test-cases. This report was written by Nikeet Pandit except for the SVD compression section, written by Changin Oh. All testing and experimentation in the report were performed by Nikeet. 
 
 Algorithms are appended at the end of the report and appended to the GitHub. Smooth FFT, DCT compression, DWT compression, and SVD compression are written by Nikeet and may be used, tailored as needed. Use at your own risk. 
 
