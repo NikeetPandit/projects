@@ -4,7 +4,7 @@ Algorithms are appended at the end of the report and appended to the GitHub. The
 Smooth FFT, DCT compression, DWT compression, and SVD compression are written by Nikeet and may be used, tailored as needed. Use at your own risk. 
 
 --------------------------------------------
-Nikeet Pandit (2023). Image Processing Work (https://github.com/NikeetPandit/practice)
+Nikeet Pandit (2023). Image Processing Work ([https://github.com/NikeetPandit/practice](https://github.com/NikeetPandit/projects/blob/main/Lossy%20Image%20Compression/functions/IM/read_me_IM.PNG))
 *Varying block size on block discrete cosine transform compression algorithm and effect on key performance metrics*
 --------------------------------------------
 
