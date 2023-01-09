@@ -16,12 +16,12 @@ Algorithms have been developed for orbit propagation, date calculations, and deb
 <div class="container" style="display: inline-block;">  
   <figure>
   <div style="float: left; padding: 8px;">
-    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG' width="450" height="350" align="center"/>
+    <img src='https://github.com/NikeetPandit/projects/blob/main/Satellite%20Tracking%20Project/functions/IM/read_me_IM.PNG' width="450" height="350" align="center"/>
     <figcaption align="center"><b>Sub-Nyquist Artefacts; Aliasing even when Nyquist condition is obeyed</b></figcaption>
   </div>
 
   <div style="float: right; padding: 8px;">
-    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG' width="450" height="350" align="center"/>
+    <img src='https://github.com/NikeetPandit/projects/blob/main/Satellite%20Tracking%20Project/functions/IM/read_me_IM_2.PNG' width="450" height="350" align="center"/>
     <figcaption align="center"><b>Transient synthetic series which, due to aliasing, keeps folding over itself</b></figcaption>
   </div>
   </figure>
