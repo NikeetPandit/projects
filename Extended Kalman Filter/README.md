@@ -9,13 +9,11 @@ In this project, an extended Kalman filter for orbit determination was presented
 <div class="container" style="display: inline-block;">  
   <figure>
   <div style="float: left; padding: 8px;">
-    <img src='https://github.com/NikeetPandit/projects/blob/main/Extended%20Kalman%20Filter/functions/IM/read_me_IM_1.PNG' width="450" height="350" align="center"/>
-    <figcaption align="center"><b>Using function MRAinWavelet_Fun2D to perform MRA of photo</b></figcaption>
+    <img src='https://github.com/NikeetPandit/projects/blob/main/Extended%20Kalman%20Filter/functions/IM/read_me_IM_1.PNG' width="650" height="350" align="center"/>
   </div>
 
   <div style="float: right; padding: 8px;">
-    <img src='https://github.com/NikeetPandit/projects/blob/main/Extended%20Kalman%20Filter/functions/IM/read_me_IM_2.PNG' width="450" height="350" align="center"/>
-    <figcaption align="center"><b>Spectrogram of Aphex Twin's Song Equation</b></figcaption>
+    <img src='https://github.com/NikeetPandit/projects/blob/main/Extended%20Kalman%20Filter/functions/IM/read_me_IM_2.PNG' width="650" height="350" align="center"/>
   </div>
   </figure>
 </div>
