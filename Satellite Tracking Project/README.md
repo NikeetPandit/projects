@@ -20,9 +20,9 @@ Algorithms have been developed for orbit propagation, date calculations, and deb
     <figcaption align="center"><b>Verification in Systems Tool Kit</b></figcaption>
   </div>
 
-  <div style="float: right; padding: 7px;">
+  <div style="float: right; padding: 8px;">
     <img src='https://github.com/NikeetPandit/projects/blob/main/Satellite%20Tracking%20Project/functions/IM/read_me_IM_2.PNG' width="450" height="350" align="center"/>
-    <figcaption align="center"><b>Spectrum Analyzer at ARO while Driving Dish to GPS Satellite: GPS L1 Signal: 1574.42MHz </b></figcaption>
+    <figcaption align="center"><b>Spectrum Analyzer at ARO while Driving Dish to GPS Sat.: GPS L1 Signal: 1574.42MHz </b></figcaption>
   </div>
   </figure>
 </div>
