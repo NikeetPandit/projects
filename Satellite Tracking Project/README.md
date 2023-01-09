@@ -32,4 +32,4 @@ Algorithms have been developed for orbit propagation, date calculations, and deb
 All functions here have been collaboratively worked on by Nikeet Pandit and Diego Mateos. 
 
 Nikeet Pandit and Diego Mateos (2023). Image Processing Work (https://github.com/NikeetPandit/practice)
-* Use functions at own risk
+* Use functions at own risk. Do not use for any academic purposes (i.e, Space Hardware). 
