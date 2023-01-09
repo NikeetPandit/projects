@@ -16,13 +16,13 @@ In this application, I develop a simple routine for performing MRA in 2D using w
 <div class="container" style="display: inline-block;">  
   <figure>
   <div style="float: left; padding: 8px;">
-    <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM.PNG' width="450" height="350" align="center"/>
-    <figcaption align="center"><b>Sub-Nyquist Artefacts; Aliasing even when Nyquist condition is obeyed</b></figcaption>
+    <img src='https://github.com/NikeetPandit/projects/blob/main/Fourier%20and%20Least-Squares%20Wavelets/functions/IM/read_me_IM.png' width="450" height="350" align="center"/>
+    <figcaption align="center"><b>Using function MRAinWavelet_Fun2D to perform MRA of photo</b></figcaption>
   </div>
 
   <div style="float: right; padding: 8px;">
     <img src='https://github.com/NikeetPandit/practice/blob/main/Spectral%20Analysis%20Work/functions/IM/read_me_IM2.PNG' width="450" height="350" align="center"/>
-    <figcaption align="center"><b>Transient synthetic series which, due to aliasing, keeps folding over itself</b></figcaption>
+    <figcaption align="center"><b>Spectrogram of Aphex Twin's Song Equation</b></figcaption>
   </div>
   </figure>
 </div>
