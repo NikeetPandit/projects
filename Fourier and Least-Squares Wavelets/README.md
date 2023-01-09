@@ -9,6 +9,7 @@ I employ, using least-squares wavelets, a novel method that actual shifts and sc
 In this application, I compare exhaustively Fourier wavelets (i.e., continuous wavelet transform) and least-squares wavelets (i.e., least-squares wavelet analysis). Least-squares wavelet has the benefit that, unlike Fourier wavelets, is not constrained to strict requirements like evenly spaced data and non-stationarity. The least-squares wavelet analysis (LSWA) – found here: https://github.com/Ghaderpour/LSWAVE-SignalProcessing takes in particularly two parameters LO and L1. Anyone using the LSWA will find my testing useful since these two parameters can be quite hard to interpret. In essence, they provide the parameterization for time-frequency resolution which is a very great flexibility that Fourier wavelets simply do not offer for signal processing. 
 
 ## (3) Multi-Resolution Analysis in Wavelets: 2D
+
 In this application, I develop a simple routine for performing MRA in 2D using wavelets. See function in GitHub. Since the discrete-wavelet transform (DWT) downsampled each level, in the return of the function it upsamples back to the original resolution using Sinc interpolation; theoretically this will completely restore the signal due to its band-limited nature without any aliasing. 
 --------------------------------------------
 
