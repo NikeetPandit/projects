@@ -5,6 +5,7 @@ Each project file includes software, documentation, and a theoretical treatment 
 --------------------------------------------
 
 ![This is an image](https://github.com/NikeetPandit/projects/blob/main/Extended%20Kalman%20Filter/functions/IM/ConferenceBooth_Pandit.png)
+*Cross-Wavelet Spectrograms of Swarm Space Data*
 
 --------------------------------------------
 
