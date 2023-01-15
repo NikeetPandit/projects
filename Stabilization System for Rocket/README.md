@@ -5,4 +5,4 @@
 </div>
 
 
-Click video for poster presentation on geomagnetic storm influence on Swarm Accelerometer!
+Click video for final video presentation for Canard Flight Stabilization System for Supersonic Launch Vehicle Final Project!
