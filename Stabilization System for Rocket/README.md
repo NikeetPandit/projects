@@ -1,6 +1,6 @@
 <div align="left">
       <a href="https://www.youtube.com/watch?v=fuaXwz2Y9h0&t=160s">
-         <img src="https://github.com/NikeetPandit/projects/blob/main/Extended%20Kalman%20Filter/functions/IM/Canard%20System.PNG" style="width:100%;">
+         <img src="https://github.com/NikeetPandit/projects/blob/main/Extended%20Kalman%20Filter/functions/IM/Canard%20System.PNG" style="width:50%;">
       </a>
 </div>
 
