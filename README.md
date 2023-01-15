@@ -1,11 +1,10 @@
 # Projects 
 
-Each project file includes software, documentation, and a theoretical treatment except "Geomagnetic Storm Influence on Swarm Space Mission". The lossy image compression and Fourier and Least-Squares Wavelet REPORT with testing and theory will be uploaded after I have completed/submitted by Masters thesis and submitted for my journal submission since there is some overlap. 
+Project files includes software, functions, documentation, theoretical treatment, OR a final video surveying results and work done. 
 
---------------------------------------------
+Note: The lossy image compression and Fourier and Least-Squares Wavelet report (incl. testing and theory) will be uploaded after I have completed/submitted by Masters thesis and submitted my journal submission.
 
-![This is an image](https://github.com/NikeetPandit/projects/blob/main/Extended%20Kalman%20Filter/functions/IM/ConferenceBooth_Pandit.png)
-*Cross-Wavelet Spectrograms of Swarm Space Data*
+Please email me at nikeet1@gmail.com or comment here if any questions! 
 
---------------------------------------------
+Cheers 
 
