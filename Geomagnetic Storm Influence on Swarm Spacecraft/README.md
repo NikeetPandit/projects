@@ -1,6 +1,5 @@
-
- <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=M1WpqtZRsD8&t=17s" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=M1WpqtZRsD8&t=17s">
+         <img src="https://github.com/NikeetPandit/projects/blob/main/Extended%20Kalman%20Filter/functions/IM/Swarm.PNG" style="width:100%;">
+      </a>
+</div>
